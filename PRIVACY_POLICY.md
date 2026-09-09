@@ -15,7 +15,7 @@ Instagram Export Viewer is a local-first app. Your imported Instagram chat expor
 When you import an Instagram data export (ZIP, JSON, or HTML), the app may read and store on your device:
 
 - Chat text, timestamps, and participant names from your export files
-- Media included in the export (photos, videos, audio, documents)
+- Media included in the export (photos, videos, audio)
 - Import metadata (conversation titles, your selected display name, import dates)
 - App preferences (language, premium status)
 
