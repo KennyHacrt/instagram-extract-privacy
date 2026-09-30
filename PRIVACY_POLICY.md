@@ -1,6 +1,6 @@
 # Privacy Policy — Instagram Export Viewer
 
-**Last updated:** July 20, 2026
+**Last updated:** September 30, 2026
 
 GeNew Studio ("we", "us") operates the mobile application **Instagram Export Viewer**. This page explains how we handle information when you use our app.
 
@@ -31,6 +31,12 @@ We do not receive personal identity information from Google through this integra
 
 If you purchase Premium, payment is processed by **Google Play Billing** or **Apple App Store**. Google or Apple may collect payment-related information according to their respective privacy policies.
 
+Purchase status is verified through **RevenueCat**, which receives a random anonymous app user ID, your purchase history for this app, and basic device information (such as OS version and country) to confirm Premium. No chat content is sent. See [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy).
+
+### Ad consent (EEA / UK)
+
+In regions that require it, the app asks for your consent before showing ads, using Google's consent tool. You can change your choice anytime in **Settings → Ad privacy options**.
+
 ### Permissions
 
 The app may request:
@@ -56,7 +62,7 @@ We do **not** sell your personal data.
 
 We do not share data from local app storage with third parties.
 
-Ad-related data may be processed by **Google AdMob** as described in Google's policies. Payment data is handled by Google Play or Apple as described in their policies.
+Ad-related data may be processed by **Google AdMob** as described in Google's policies. Payment data is handled by Google Play or Apple as described in their policies, and purchase status by RevenueCat as described above.
 
 ## Data Retention & Deletion
 
@@ -82,13 +88,14 @@ If you have questions about this privacy policy, contact us at:
 
 ## 隱私權政策 — Instagram Export Viewer（繁體中文摘要）
 
-**最後更新：** 2026 年 7 月 20 日
+**最後更新：** 2026 年 9 月 30 日
 
 Instagram Export Viewer 為本地優先的 App。您匯入的 Instagram 聊天匯出檔僅在裝置上解析與儲存，我們沒有使用者帳號或自有後端伺服器。
 
 - **本地資料：** 聊天內容、媒體、匯入紀錄與 App 設定僅存於手機，不會上傳至我們的伺服器。
 - **廣告：** 非 Premium 使用者開啟聊天時，本 App 使用 Google AdMob 顯示插頁廣告；Google 可能依其政策收集廣告相關裝置資訊。
-- **付費：** Premium 訂閱由 Google Play 或 App Store 處理。
+- **付費：** Premium 訂閱由 Google Play 或 App Store 處理；購買狀態經 RevenueCat 驗證（僅匿名 ID 與購買紀錄，不含聊天內容）。
+- **廣告同意：** 歐洲經濟區／英國使用者會先看到 Google 的廣告同意視窗，可隨時在「設定 → 廣告隱私選項」更改。
 - **權限：** 網路（廣告）、檔案存取（匯入匯出檔）。
 - **刪除資料：** 在 App 內刪除匯入、清除 App 資料或解除安裝即可刪除本地資料。
 
